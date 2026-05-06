@@ -16,4 +16,4 @@ let count = 0;
         
         content.style.display = "block";
       }
-    }, 30); 
+    }, 30);             
